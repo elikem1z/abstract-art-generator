@@ -31,4 +31,4 @@ Hosting the Application Locally:
 
 3. Run the following command in your terminal: python app.py
 
-Link to demo of the wed app: 
+Link to demo of the wed app: https://drive.google.com/file/d/1Q3XgnGvuITZXg-giY2hRzocD5EHOm1ZF/view?usp=sharing
